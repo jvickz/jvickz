@@ -1,29 +1,77 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Joao+Vitor;I'm+20+years+old;I+am+from+Brazil;I+study+data+scientist+;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<div align="center">
 
+# 👋 Bem-vindo ao meu GitHub
 
-<div align="center">  
-<a href="https://www.instagram.com/jvickz7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
- 
-### Main skills:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=#00FF00)&nbsp;
+<img src="./assets/banner.png" width="100%" />
+
+</div>
+
+---
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jvickz}/count.svg" /></p> 
-<br></div>
 
+### Olá, eu sou **João Vitor**  
 
+Programador apaixonado por tecnologia, programação e criação de soluções criativas.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
+Formado em Ciência de Dados, atualmente estudando **Machine Learning, Cyber Security, Java, C++ e Banco de Dados**.
 
+</div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvickz/jvickz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvickz/jvickz/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jvickz/jvickz/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
+## 🚀 Sobre mim
+
+- 🎓 Estudante de Ciência da Computação
+- 💻 Focado em Ciência de Dados, Python e análise de dados
+- 📚 Sempre aprendendo novas tecnologias
+- 🎯 Buscando evoluir como desenvolvedor
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="left">
+
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvmarinhocosta@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jvickz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jo%C3%A3o-vitor-m-91229b26a/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/jvickz7/)
+
+</div>
+
+---
+
+## 🛠️ Minha Stack
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/coding.gif" width="450px" />
+
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvickz&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvickz&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
