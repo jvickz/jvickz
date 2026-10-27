@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=2500&pause=800&color=B000FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Vitor;Bem-vindo+ao+meu+GitHub;Data+Science+%7C+Python+%7C+SQL" alt="Olá, eu sou João Vitor — Bem-vindo ao meu GitHub — Data Science, Python e SQL" />
+</p>
+<p align="center">
   <img src="./assets/banner.png" width="100%" alt="João Vitor Marinho — Cientista de Dados" />
 </p>
 
