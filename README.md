@@ -1,23 +1,25 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=2500&pause=800&color=B000FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Vitor;Bem-vindo+ao+meu+GitHub;Data+Science+%7C+Python+%7C+SQL" alt="Olá, eu sou João Vitor — Bem-vindo ao meu GitHub — Data Science, Python e SQL" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=2500&pause=800&color=B000FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Vitor;Bem-vindo+ao+meu+GitHub;Data+Science+%7C+Software+Engineering;Python+%7C+SQL+%7C+Java+%7C+C%2B%2B" alt="Olá, eu sou João Vitor — Bem-vindo ao meu GitHub — Data Science, Software Engineering, Python, SQL, Java e C++" />
 </p>
 <p align="center">
   <img src="./assets/banner.png" width="100%" alt="João Vitor Marinho — Cientista de Dados" />
 </p>
 
 <p align="center">
-  Cientista de Dados · Estudante de Ciência da Computação · Python · SQL
+  Ciência de Dados · Engenharia de Software · Estudante de Ciência da Computação
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou formado em Ciência de Dados e estudante de Ciência da Computação. Gosto de transformar dados em insights e criar soluções úteis com tecnologia.
+Concluí a formação em Ciência de Dados pela EBAC e sou estudante de Ciência da Computação. Gosto de transformar dados em insights e desenvolver soluções em software, conectando análise, programação e aplicações web.
 
 - 📊 Ciência de Dados e análise de dados
 - 🧠 Estudando Machine Learning e segurança da informação
 - 💻 Explorando Python, SQL, Java e C++
+- 🛠️ Aprofundando fundamentos de Engenharia de Software, orientação a objetos e boas práticas de código
+- 🌐 Desenvolvimento de projetos web com HTML, CSS e JavaScript
 - 📚 Sempre aprendendo e construindo projetos
 
 ## Tecnologias
@@ -32,6 +34,8 @@ Sou formado em Ciência de Dados e estudante de Ciência da Computação. Gosto 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="38" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="38" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="38" alt="Java — em estudo" title="Java — em estudo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="38" alt="C++ — em estudo" title="C++ — em estudo" />
 </p>
 
 ## Vamos nos conectar
@@ -52,3 +56,4 @@ Sou formado em Ciência de Dados e estudante de Ciência da Computação. Gosto 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvickz/jvickz/output/github-contribution-grid-snake.svg">
   <img alt="Animação do gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/jvickz/jvickz/output/github-contribution-grid-snake.svg">
 </picture>
+
