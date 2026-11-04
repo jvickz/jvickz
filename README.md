@@ -1,45 +1,54 @@
-# João Vitor Marinho
-**Ciência de Dados e Machine Learning · Python · SQL**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=2500&pause=800&color=B000FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Vitor;Bem-vindo+ao+meu+GitHub;Data+Science+%7C+Python+%7C+SQL" alt="Olá, eu sou João Vitor — Bem-vindo ao meu GitHub — Data Science, Python e SQL" />
+</p>
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="João Vitor Marinho — Cientista de Dados" />
+</p>
 
-Concluí a formação em Ciência de Dados pela EBAC e curso Ciência da Computação, com conclusão prevista em 2026. Busco oportunidades em Ciência de Dados e Machine Learning, com foco em análise, avaliação de modelos e comunicação de decisões.
+<p align="center">
+  Cientista de Dados · Estudante de Ciência da Computação · Python · SQL
+</p>
 
-## Projeto em destaque
+---
 
-### [Entrega em Foco](https://github.com/jvickz/entrega-em-foco)
-Produto de dados aplicado à logística: análise de **2.637 viagens**, diagnóstico de qualidade dos dados e proposta de um Gate de Prontidão com responsáveis, prazos e piloto de avaliação.
+## Sobre mim
 
-- **Competências:** Python, pandas, análise exploratória, previsão temporal simples e desenho de produto analítico.
-- **Evidência:** 352 viagens atrasadas; as ocorrências não podem ser ligadas individualmente às viagens.
-- **Entrega:** painel publicado, código de consolidação e documentação de método, limitações e piloto.
-- **Status:** case de portfólio; a intervenção é proposta e seu impacto ainda precisa ser medido.
+Sou formado em Ciência de Dados e estudante de Ciência da Computação. Gosto de transformar dados em insights e criar soluções úteis com tecnologia.
 
-[Abrir demonstração](https://jvickz.github.io/entrega-em-foco/) · [Método e limites](https://github.com/jvickz/entrega-em-foco/blob/main/ANALISE_E_LIMITES.md)
+- 📊 Ciência de Dados e análise de dados
+- 🧠 Estudando Machine Learning e segurança da informação
+- 💻 Explorando Python, SQL, Java e C++
+- 📚 Sempre aprendendo e construindo projetos
 
-## Estudos de Machine Learning
+## Tecnologias
 
-| Estudo | Método | Leitura dos resultados |
-| --- | --- | --- |
-| [Tireoide](https://github.com/jvickz/Projeto-Tireoide-) | Classificação, pipelines e análise de limiar | Resultado histórico de 100% no teste exige auditoria e validação independente. |
-| [Dengue](https://github.com/jvickz/projeto-semantix-dengue) | Agregação mensal e regressão temporal | Experimento inicial com R² negativo; desempenho preditivo ainda não demonstrado. |
-| [Cardio](https://github.com/jvickz/Projeto-Cardio) | Regressão logística | Baseline acadêmico com ROC-AUC histórico de aproximadamente 0,695. |
-| [Segmentação de clientes](https://github.com/jvickz/clientes-shopping) | K-Means e PCA | Estudo didático de perfis em uma base de 200 clientes. |
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="38" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="38" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="38" alt="R" />
+</p>
 
-As métricas são de execuções salvas nos notebooks. Os estudos de saúde são exercícios acadêmicos, sem validação para uso clínico.
+## Vamos nos conectar
 
-## Tecnologias aplicadas
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvmarinhocosta@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jvickz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jo%C3%A3o-vitor-m-91229b26a/)
+[![Instagram](https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/jvickz7/)
 
-Python · SQL · pandas · NumPy · scikit-learn · Matplotlib · Jupyter · Git
+---
 
-Uso HTML, CSS e JavaScript para apresentar resultados e construir demonstrações analíticas.
+<p align="center">
+  <img src="./assets/coding.gif" width="420" alt="Ilustração de programação" />
+</p>
 
-## Arquivos de aprendizado
-
-[Exercícios EBAC em Jupyter](https://github.com/jvickz/Projetos-em-JUPYTER) · [Fundamentos de Python](https://github.com/jvickz/jv)
-
-Esses repositórios registram minha evolução e estão separados dos cases selecionados.
-
-## Contato
-
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-m-91229b26a/) · [E-mail](mailto:jvmarinhocosta@gmail.com)
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvickz/jvickz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvickz/jvickz/output/github-contribution-grid-snake.svg">
+  <img alt="Animação do gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/jvickz/jvickz/output/github-contribution-grid-snake.svg">
+</picture>
