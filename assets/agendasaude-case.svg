@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="176" viewBox="0 0 960 176" role="img" aria-labelledby="title desc">
+  <title id="title">AgendaSaúde Lab</title>
+  <desc id="desc">Ilustração de calendário e linha de tendência para o simulador de agendamentos municipais.</desc>
+  <defs><linearGradient id="card" x2="100%" y2="100%"><stop stop-color="#111a2f"/><stop offset="1" stop-color="#202d48"/></linearGradient></defs>
+  <rect x="1" y="1" width="958" height="174" rx="18" fill="url(#card)" stroke="#516481" stroke-width="2"/>
+  <rect x="1" y="25" width="5" height="126" rx="2.5" fill="#67e8d2"/>
+  <text x="43" y="47" fill="#83e8d7" font-family="Consolas, monospace" font-size="15" font-weight="600" letter-spacing="2">CASE EM DESTAQUE / SAÚDE PÚBLICA</text>
+  <text x="41" y="103" fill="#f5f3ff" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="46" font-weight="750">AgendaSaúde Lab</text>
+  <text x="44" y="139" fill="#c6cce6" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="22">Faltas, lista de espera e previsão semanal</text>
+  <g fill="none" stroke="#627599" stroke-width="2">
+    <rect x="659" y="43" width="94" height="89" rx="9"/>
+    <path d="M659 66H753M683 36V51M729 36V51M681 83H694M716 83H729M681 102H694M716 102H729"/>
+    <path d="M789 52V128H913M789 101H913M789 75H913" opacity=".6"/>
+  </g>
+  <path d="M795 108L815 91L835 100L855 73L875 80L902 55" fill="none" stroke="#67e8d2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="902" cy="55" r="5" fill="#a995ff"/>
+</svg>
