@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="288" viewBox="0 0 960 288" role="img" aria-labelledby="title desc">
+  <title id="title">João Vitor Marinho</title>
+  <desc id="desc">Portfólio de Ciência de Dados e Engenharia de Software, com monograma JV e traços de um gráfico abstrato.</desc>
+  <defs>
+    <linearGradient id="bg" x2="100%" y2="100%"><stop stop-color="#0a1224"/><stop offset="1" stop-color="#20244b"/></linearGradient>
+    <linearGradient id="signal"><stop stop-color="#a995ff"/><stop offset="1" stop-color="#67e8d2"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#8897cb" stroke-opacity=".22"/></pattern>
+  </defs>
+  <rect width="960" height="288" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="958" height="286" rx="23" fill="none" stroke="#424a70" stroke-width="2"/>
+  <rect x="689" y="29" width="232" height="230" rx="14" fill="url(#grid)" stroke="#4a547e"/>
+  <circle cx="805" cy="144" r="78" fill="#141d36" stroke="#6976a5" stroke-dasharray="3 6"/>
+  <circle cx="805" cy="144" r="61" fill="none" stroke="#55628c"/>
+  <path d="M747 187L769 175L792 182L816 165L839 170L864 149L895 157" fill="none" stroke="url(#signal)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#67e8d2"><circle cx="747" cy="187" r="4"/><circle cx="864" cy="149" r="4"/><circle cx="895" cy="157" r="4"/></g>
+  <text x="805" y="150" text-anchor="middle" fill="#f2efff" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">JV</text>
+  <g font-family="Consolas, monospace" font-size="15" font-weight="600" letter-spacing="2">
+    <text x="48" y="63" fill="#a995ff">PORTFÓLIO / GITHUB</text><text x="48" y="242" fill="#83e8d7">@JVICKZ</text>
+  </g>
+  <text x="46" y="137" fill="#f5f3ff" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="58" font-weight="750">João Vitor Marinho</text>
+  <text x="49" y="182" fill="#c6cce6" font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="24">Ciência de Dados · Engenharia de Software</text>
+  <path d="M49 209H637" stroke="#454e75"/>
+</svg>
