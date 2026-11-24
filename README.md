@@ -43,10 +43,6 @@ JavaScript · HTML · CSS · C · C++ · Git
 
 ## ◈ Projetos selecionados
 
-[![Sinal Dois · Loja de eletrônicos](https://raw.githubusercontent.com/jvickz/sinal-dois/main/docs/loja.webp)](https://github.com/jvickz/sinal-dois)
-
-**[Sinal Dois](https://github.com/jvickz/sinal-dois)** · Loja de eletrônicos em **React, TypeScript, Java, Spring Boot e PostgreSQL**. Duas pessoas podem tentar comprar o último iPhone ao mesmo tempo, e a API reserva o estoque para apenas uma delas. O projeto inclui pagamentos simulados, painel de expedição e testes de integração e de navegador.
-
 [![AgendaSaúde Lab · Faltas, lista de espera e previsão semanal](assets/agendasaude-case.svg)](https://github.com/jvickz/agendasaude-lab)
 
 **[AgendaSaúde Lab](https://github.com/jvickz/agendasaude-lab)** — Simulador de agendamentos municipais que combina faltas, lista de espera e previsão semanal. O projeto compara o modelo com a média das quatro semanas anteriores para avaliar o ganho sobre uma regra simples.
@@ -59,6 +55,10 @@ JavaScript · HTML · CSS · C · C++ · Git
 <tr>
 <td width="50%" valign="top"><h3>◫ Entrega em Foco</h3><p>Análise de 2.637 viagens, painel executivo e proposta de piloto para avaliar a prontidão das entregas.</p><p><img src="https://img.shields.io/badge/An%C3%A1lise%20%2F%20Log%C3%ADstica-67E8D2?style=flat-square" alt="Análise / Logística" /></p><a href="https://github.com/jvickz/entrega-em-foco"><b>Explorar projeto →</b></a></td>
 <td width="50%" valign="top"><h3>⌘ Estudos em dados</h3><p>Exercícios da formação em Ciência de Dados, reunidos em notebooks.</p><p><img src="https://img.shields.io/badge/Jupyter%20%2F%20Python-A995FF?style=flat-square" alt="Jupyter / Python" /></p><a href="https://github.com/jvickz/Projetos-em-JUPYTER"><b>Explorar projeto →</b></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>◇ Sinal Dois</h3><p>Loja de eletrônicos com reserva de estoque, pagamento simulado e painel de expedição.</p><p><img src="https://img.shields.io/badge/React%20%2F%20Spring%20Boot-67E8D2?style=flat-square" alt="React / Spring Boot" /></p><a href="https://github.com/jvickz/sinal-dois"><b>Explorar projeto →</b></a></td>
+<td width="50%"></td>
 </tr>
 </table>
 
