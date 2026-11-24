@@ -43,6 +43,10 @@ JavaScript · HTML · CSS · C · C++ · Git
 
 ## ◈ Projetos selecionados
 
+[![Sinal Dois · Loja de eletrônicos](https://raw.githubusercontent.com/jvickz/sinal-dois/main/docs/loja.webp)](https://github.com/jvickz/sinal-dois)
+
+**[Sinal Dois](https://github.com/jvickz/sinal-dois)** · Loja de eletrônicos em **React, TypeScript, Java, Spring Boot e PostgreSQL**. Duas pessoas podem tentar comprar o último iPhone ao mesmo tempo, e a API reserva o estoque para apenas uma delas. O projeto inclui pagamentos simulados, painel de expedição e testes de integração e de navegador.
+
 [![AgendaSaúde Lab · Faltas, lista de espera e previsão semanal](assets/agendasaude-case.svg)](https://github.com/jvickz/agendasaude-lab)
 
 **[AgendaSaúde Lab](https://github.com/jvickz/agendasaude-lab)** — Simulador de agendamentos municipais que combina faltas, lista de espera e previsão semanal. O projeto compara o modelo com a média das quatro semanas anteriores para avaliar o ganho sobre uma regra simples.
